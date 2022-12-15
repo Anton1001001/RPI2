@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RPI2/static/css/main.44f8b8b5.css",
+    "main.js": "/RPI2/static/js/main.99476b47.js",
+    "static/js/787.8344e245.chunk.js": "/RPI2/static/js/787.8344e245.chunk.js",
+    "static/media/logo.svg": "/RPI2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RPI2/index.html",
+    "main.44f8b8b5.css.map": "/RPI2/static/css/main.44f8b8b5.css.map",
+    "main.99476b47.js.map": "/RPI2/static/js/main.99476b47.js.map",
+    "787.8344e245.chunk.js.map": "/RPI2/static/js/787.8344e245.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.99476b47.js"
+  ]
+}
